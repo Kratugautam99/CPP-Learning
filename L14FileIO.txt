@@ -1,0 +1,3 @@
+Hello, Kratu!
+This is a C++ file I/O demo.
+Reading and writing in the same program.
