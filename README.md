@@ -22,6 +22,14 @@ This repository is organized around hands-on learning and includes:
 
 ---
 
+## 🧩 Cython Enhancements
+Included modules demonstrate Python-C++ integration using Cython:
+- `.pxd` interface files and C imports for low-level performance  
+- OpenMP-based parallelization of compute-heavy routines  
+- Examples bridging C++ logic with Python machine learning workflows
+
+--- 
+
 ## 💡 Why This Matters
 
 This repo is perfect for:
