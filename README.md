@@ -1,6 +1,6 @@
 # 🌟 CPP-Learning
 
-Welcome to **CPP-Learning** — a curated journey through the depths of **C++ programming**, crafted to strengthen your understanding of core and advanced concepts through real-world examples and elegant code patterns.
+Welcome to **CPP-Learning** — a curated journey through the depths of **C++ programming** and **Cython**, crafted to strengthen your understanding of core and advanced concepts through real-world examples and elegant code patterns.
 
 ---
 
